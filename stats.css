@@ -1,0 +1,107 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+  width: 1440px;
+}
+
+span {
+  color: hsl(277, 64%, 61%);
+}
+
+div {
+  align-items: center;
+  font-size: 15px;
+  background-color: hsl(244, 38%, 16%);
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: hsl(0, 0%, 100%);
+  font-weight: 400px;
+}
+
+.tempe {
+  width: 500px;
+  height: 400px;
+  position: absolute;
+  left: 250px;
+  top: 150px;
+  text-align: left;
+}
+
+img {
+  position: absolute;
+  left: 500px;
+  top: 0px;
+  background-color: hsl(277, 64%, 61%);
+  height: 400px;
+  opacity: 100%;
+  width: 500px;
+ border-radius: 8px;
+}
+
+h1 {
+  padding: 40px 100px 20px 100px;
+  color: hsl(0, 0%, 100%);
+  font-weight: 400px;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 25px;
+}
+
+p {
+  padding-left: 100px;
+  padding-right: 100px;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-weight: 700px;
+  font-family: font-family: 'Lexend Deca', sans-serif;
+  font-size: 25;
+}
+
+table {
+  font-size: 15px;
+  border-width: 50px;
+}
+
+.classic {
+  width: 100px;
+  height: 50px;
+  font-size: 15px;
+  position: absolute;
+  left: 100px;
+  text-align: left;
+  margin-top: 20px;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+
+.super {
+  width: 100px;
+  height: 50px;
+  font-size: 15px;
+  position: absolute;
+  left: 225px;
+  text-align: left;
+  margin-top: 20px;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+
+.gamma {
+  width: 100px;
+  height: 50px;
+  font-size: 15px;
+  position: absolute;
+  left: 350px;
+  text-align: left;
+  margin-top: 20px;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+
+.clock {
+  height: 400px;
+  width: 500px;
+  background-color: indigo;
+  position: absolute;
+  left: 500px;
+  top: 0px;
+  opacity: 45%;
+  border-radius: 8px;
+}
